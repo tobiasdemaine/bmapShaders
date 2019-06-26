@@ -1,6 +1,17 @@
-# bMapShaders
+# bMap
+bMap by [tobias demaine](http://tobiasdemaine.com) is a mapped projection artwork @ Beaman Park, James Street, Yeppoon, QLD, Australia. 
+[View artwork on Youtube.](https://www.youtube.com/watch?v=G7KIdkO6g04)
+It is both artwork and learning tool for graphics programming with GLSL openGL shader language. It purpose is both eye candy and to inspire creative graphics programming.  
 
-Example fragment Shaders and Instruction for use on the bMap projection installation @ Beaman Park, James Street, Yeppoon, QLD, Australia.  To begin coding - Sign up at https://bmap.ocular.ink 
+Physical installation hardware : NEC 8000 lumen 4k Projector, Nvidia Sheild TV computer. 
+
+Physical installation Software : Javascript / WebGL / GLSL standalone / WebKit app running on modified Android 9.
+
+# bMap Shaders
+
+This repository contains example fragment Shaders and Instruction for use on the map installation.
+
+To begin coding - Sign up at https://bmap.ocular.ink/user/register or Sign in at https://bmap.ocular.ink/user/sign-in once signed visit https://bmap.ocular.ink/ to begin
 
 # Overview
 
@@ -29,7 +40,7 @@ To start working on a shader select New GLSLShader from the My Shaders Layer. Yo
 
 # Administrating the scene
 
-![Administration Main Screen](assets/img/sadminMainScreen.png?raw=true)
+![Administration Main Screen](assets/img/adminMainScreen.png?raw=true)
 
 With Administration rights you can set a scene live or cue it for play at given time into the future. To set the current scene live, fill all the scene surface slots with shaders and select Set Live. To Cue a scene fill all the scene surface slot with shaders and select Set Future. A dialogue window will appear to select a future date and time. Once click the yellow Set Future button. To view the cue elect the cue link from the menu layer of the main Screen.
 
