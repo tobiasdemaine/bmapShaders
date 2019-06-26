@@ -1,5 +1,5 @@
 # bMap
-bMap by [tobias demaine](http://tobiasdemaine.com) is a mapped projection artwork @ Beaman Park, James Street, Yeppoon, QLD, Australia. 
+bMap by [Tobias De Maine](http://tobiasdemaine.com) is a mapped projection artwork @ Beaman Park, James Street, Yeppoon, QLD, Australia. 
 [View artwork on Youtube.](https://www.youtube.com/watch?v=G7KIdkO6g04)
 It is both an artwork and a learning tool for graphics programming with the GLSL openGL shader language. It purpose is both for eye candy and to inspire creative graphics programming.  
 
@@ -23,7 +23,7 @@ Links to learn about GLSL Shader Language.
 - https://thebookofshaders.com/
 - https://www.shadertoy.com/
 
-The bMap Scene has multiple surfaces which parallel the physical projection planes (the ground, the tree trunks and the tree foliage).  Once Logged into bMap you are presented with the main Screen. It is broken into 4 layers. From the top : menu, surface builder & preview, your shaders & other people's shaders.
+The bMap Scene has multiple surfaces that parallel the physical projection planes (the ground, the tree trunks and the tree foliage).  Once Logged into bMap you are presented with the main Screen. It is broken into 4 layers. From the top : menu, surface builder & preview, your shaders & other people's shaders.
 
 
 ![Main Screen](assets/img/mainScreen.png?raw=true)
