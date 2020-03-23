@@ -1,6 +1,6 @@
 # bMap
 bMap by [Tobias De Maine](http://tobiasdemaine.com) is a mapped projection artwork @ Beaman Park, James Street, Yeppoon, QLD, Australia. 
-[View artwork on Youtube.](https://www.youtube.com/watch?v=G7KIdkO6g04)
+[View artwork on Youtube.](https://youtu.be/j0DDQbLY1Rw)
 It is both an artwork and a learning tool for graphics programming with the GLSL openGL shader language. It purpose is both for eye candy and to inspire creative graphics programming.  
 
 Physical installation hardware : NEC 8000 lumen 4k Projector, Nvidia Sheild TV computer. 
